@@ -14,4 +14,4 @@ This is a simple password generator application built using React and Tailwind C
 
 ### Live Demo
 
-Try out the live demo [here]()!
+Try out the live demo [here](https://unique-genie-9af3cb.netlify.app/)!
